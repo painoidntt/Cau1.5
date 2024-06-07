@@ -4,6 +4,7 @@ import pandas as pd
 
 st.title('My first deployed DL model')
 st.header('Header đây chứ đâu')
+st.text('Đây là text')
 st.markdown('Markdown đây **anh em ơi**')
 st.text('Còn dưới đây là latex')
 st.latex(r'''a + b = 3''')
